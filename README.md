@@ -3,7 +3,7 @@
 
 A context-aware Telegram bot that provides real-time cryptocurrency price information, purchase options, and conversational assistance. Powered by APRO AI Oracle on ATTPs protocol.
 
-![CryptoGPT Architecture](https://github.com/yourname/crypto-gpt-bot/raw/main/docs/architecture.png)
+![CryptoGPT Architecture](https://github.com/heaven2358/cryptogpt4tg/raw/main/docs/architecture.png)
 
 ## 🌟 Vision
 
@@ -40,8 +40,8 @@ We're not just building a bot, but an intelligent agent embedded in any conversa
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/crypto-gpt-bot.git
-cd crypto-gpt-bot
+git clone https://github.com/heaven2358/cryptogpt4tg.git
+cd cryptogpt4tg
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
