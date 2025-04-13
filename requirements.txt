@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+requests-oauthlib
+pytz
+python-telegram-bot
